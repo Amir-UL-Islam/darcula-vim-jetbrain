@@ -1,7 +1,6 @@
 ## Darcula
 
 ![darcula](./img/full_screen_i.png)
-![darcula](./img/full_screen.png)
 
 :smiling_imp: A [Vim](https://www.vim.org/)/[Neovim](https://neovim.io/) color scheme reproduction of the official [JetBrains](https://www.jetbrains.com/) IDE Darcula theme
 
